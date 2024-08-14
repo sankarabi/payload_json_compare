@@ -1,0 +1,3748 @@
+{
+    "abi_bb_brands": [],
+    "abi_beer_brands": [],
+    "assumptions": [
+        {
+            "aguila_large_acv": {
+                "2024": 0,
+                "2025": -0.051079598,
+                "2026": -0.051079598
+            }
+        },
+        {
+            "aguila_light_acv": {
+                "2024": 0.0315,
+                "2025": 0.036643884,
+                "2026": 0.036643884
+            }
+        },
+        {
+            "aguila_light_large_tdp": {
+                "2024": 0.1922,
+                "2025": -0.090747277,
+                "2026": -0.090747277
+            }
+        },
+        {
+            "aguila_light_medium_tdp": {
+                "2024": 0.0106,
+                "2025": -0.014979119,
+                "2026": -0.014979119
+            }
+        },
+        {
+            "aguila_small_acv": {
+                "2024": 0.0292,
+                "2025": -0.384709884,
+                "2026": -0.384709884
+            }
+        },
+        {
+            "aguila_tdp": {
+                "2024": 0.0646,
+                "2025": -0.002452138,
+                "2026": -0.002452138
+            }
+        },
+        {
+            "alcoholic_beverages_and_tobacco_abs": {
+                "2024": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.006641035
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2025": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.006641035
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2026": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.006641035
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ]
+            }
+        },
+        {
+            "andina_medium_acv": {
+                "2024": 0.0118,
+                "2025": 0.017500129,
+                "2026": 0.017500129
+            }
+        },
+        {
+            "andina_medium_price": {
+                "2024": 0.073136989,
+                "2025": 0.073136989,
+                "2026": 0.073136989
+            }
+        },
+        {
+            "becks_small_acv": {
+                "2024": 0,
+                "2025": 0.399537083,
+                "2026": 0.399537083
+            }
+        },
+        {
+            "budweiser_medium_acv": {
+                "2024": 0.057,
+                "2025": 2.094150386,
+                "2026": 2.094150386
+            }
+        },
+        {
+            "budweiser_small_acv": {
+                "2024": 0.2338,
+                "2025": -0.022031528,
+                "2026": -0.022031528
+            }
+        },
+        {
+            "club_colombia_tdp": {
+                "2024": 0.11,
+                "2025": 0.040732289,
+                "2026": 0.040732289
+            }
+        },
+        {
+            "corona_small_tdp": {
+                "2024": 0,
+                "2025": 0.352557989,
+                "2026": 0.352557989
+            }
+        },
+        {
+            "covid_flag": {
+                "2024": 0,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "heineken_large_acv": {
+                "2024": 0,
+                "2025": -0.618063017,
+                "2026": -0.618063017
+            }
+        },
+        {
+            "heineken_large_tdp": {
+                "2024": 0,
+                "2025": -0.483391389,
+                "2026": -0.483391389
+            }
+        },
+        {
+            "heineken_medium_acv": {
+                "2024": 0,
+                "2025": 0.001645276,
+                "2026": 0.001645276
+            }
+        },
+        {
+            "heineken_medium_tdp": {
+                "2024": 0.050899575,
+                "2025": 0.050899575,
+                "2026": 0.050899575
+            }
+        },
+        {
+            "heineken_price": {
+                "2024": 0.04602304,
+                "2025": 0.04602304,
+                "2026": 0.04602304
+            }
+        },
+        {
+            "nominal_beer_price": {
+                "2024": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.065555458
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2025": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.065555458
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2026": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.065555458
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ]
+            }
+        },
+        {
+            "pilsen_medium_acv": {
+                "2024": 0.1076,
+                "2025": -0.072662566,
+                "2026": -0.072662566
+            }
+        },
+        {
+            "poker_large_tdp": {
+                "2024": 0.1071,
+                "2025": -0.015377054,
+                "2026": -0.015377054
+            }
+        },
+        {
+            "poker_medium_acv": {
+                "2024": 0.0212,
+                "2025": -0.09652626,
+                "2026": -0.09652626
+            }
+        },
+        {
+            "poker_medium_tdp": {
+                "2024": 0.0212,
+                "2025": 0.091997671,
+                "2026": 0.091997671
+            }
+        },
+        {
+            "production_index_industry_monthly": {
+                "2024": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.003209009
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2025": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.047133764
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2026": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.044963311
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ]
+            }
+        },
+        {
+            "retail_sales_value_index_usd_monthly": {
+                "2024": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.083403531
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2025": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.040896525
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ],
+                "2026": [
+                    {
+                        "driver": "pcc",
+                        "value": 0.098285236
+                    },
+                    {
+                        "driver": "sot",
+                        "value": "NA"
+                    }
+                ]
+            }
+        },
+        {
+            "sol_price": {
+                "2024": -0.033495831,
+                "2025": -0.033495831,
+                "2026": -0.033495831
+            }
+        }
+    ],
+    "base_year": 2023,
+    "brand_pack_weights": [
+        {
+            "brand_name": "aguila",
+            "brand_nr_weight": 0.311937084,
+            "brand_packsize_nr_weight": 0.014077663,
+            "packsize": "small"
+        },
+        {
+            "brand_name": "aguila",
+            "brand_nr_weight": 0.311937084,
+            "brand_packsize_nr_weight": 0.083360194,
+            "packsize": "large"
+        },
+        {
+            "brand_name": "aguila",
+            "brand_nr_weight": 0.311937084,
+            "brand_packsize_nr_weight": 0.311937084,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "aguila",
+            "brand_nr_weight": 0.311937084,
+            "brand_packsize_nr_weight": 0.902562143,
+            "packsize": "medium"
+        },
+        {
+            "brand_name": "aguila_light",
+            "brand_nr_weight": 0.140530198,
+            "brand_packsize_nr_weight": 0.065645326,
+            "packsize": "small"
+        },
+        {
+            "brand_name": "aguila_light",
+            "brand_nr_weight": 0.140530198,
+            "brand_packsize_nr_weight": 0.140530198,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "aguila_light",
+            "brand_nr_weight": 0.140530198,
+            "brand_packsize_nr_weight": 0.165533565,
+            "packsize": "large"
+        },
+        {
+            "brand_name": "aguila_light",
+            "brand_nr_weight": 0.140530198,
+            "brand_packsize_nr_weight": 0.768821109,
+            "packsize": "medium"
+        },
+        {
+            "brand_name": "club_colombia",
+            "brand_nr_weight": 0.054508587,
+            "brand_packsize_nr_weight": 0.054508587,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "club_colombia",
+            "brand_nr_weight": 0.054508587,
+            "brand_packsize_nr_weight": 0.062346538,
+            "packsize": "large"
+        },
+        {
+            "brand_name": "club_colombia",
+            "brand_nr_weight": 0.054508587,
+            "brand_packsize_nr_weight": 0.077432841,
+            "packsize": "small"
+        },
+        {
+            "brand_name": "club_colombia",
+            "brand_nr_weight": 0.054508587,
+            "brand_packsize_nr_weight": 0.86022062,
+            "packsize": "medium"
+        },
+        {
+            "brand_name": "corona",
+            "brand_nr_weight": 0.083883549,
+            "brand_packsize_nr_weight": 0.083883549,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "corona",
+            "brand_nr_weight": 0.083883549,
+            "brand_packsize_nr_weight": 0.26341925,
+            "packsize": "medium"
+        },
+        {
+            "brand_name": "corona",
+            "brand_nr_weight": 0.083883549,
+            "brand_packsize_nr_weight": 0.73658075,
+            "packsize": "small"
+        },
+        {
+            "brand_name": "other_premium",
+            "brand_nr_weight": 0.071039875,
+            "brand_packsize_nr_weight": 0.071039875,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "other_value",
+            "brand_nr_weight": 0.111331605,
+            "brand_packsize_nr_weight": 0.111331605,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "poker",
+            "brand_nr_weight": 0.226769103,
+            "brand_packsize_nr_weight": 0.066744209,
+            "packsize": "small"
+        },
+        {
+            "brand_name": "poker",
+            "brand_nr_weight": 0.226769103,
+            "brand_packsize_nr_weight": 0.213246079,
+            "packsize": "large"
+        },
+        {
+            "brand_name": "poker",
+            "brand_nr_weight": 0.226769103,
+            "brand_packsize_nr_weight": 0.226769103,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "poker",
+            "brand_nr_weight": 0.226769103,
+            "brand_packsize_nr_weight": 0.720009712,
+            "packsize": "medium"
+        }
+    ],
+    "constraints": [
+        {
+            "brandpack_type_left": "medium",
+            "brandpack_type_right": "large",
+            "minimum_percent_greater": 30,
+            "target": "gap_medium_large",
+            "type": "price_gap_by_brand_packsize"
+        },
+        {
+            "brandpack_type_left": "small",
+            "brandpack_type_right": "medium",
+            "minimum_percent_greater": 30,
+            "target": "gap_small_medium",
+            "type": "price_gap_by_brand_packsize"
+        },
+        {
+            "left_brands": [
+                "club_colombia",
+                "other_premium"
+            ],
+            "minimum_percent_greater": 30,
+            "right_brands": [
+                "aguila",
+                "aguila_light",
+                "poker"
+            ],
+            "target": "gap_core_premium",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "corona"
+            ],
+            "minimum_percent_greater": 30,
+            "right_brands": [
+                "club_colombia",
+                "other_premium"
+            ],
+            "target": "gap_premium_spremium",
+            "type": "price_gap_brands"
+        },
+        {
+            "maximum_percent_decrease": 1,
+            "target": "abi_sob",
+            "type": "year_decrease"
+        },
+        {
+            "maximum_percent_decrease": 1,
+            "target": "pcc",
+            "type": "year_decrease"
+        },
+        {
+            "start_year": 30000000,
+            "type": "maximum_capacity",
+            "year_increase": 4.3
+        },
+        {
+            "tolerance_level": 5,
+            "total_price_change": 4,
+            "type": "total_price_change"
+        }
+    ],
+    "count_of_processes": 8,
+    "country": "colombia",
+    "cpi": {
+        "2024": 0.059623828,
+        "2025": 0.035398738,
+        "2026": 0.031948711
+    },
+    "financial_historicals": [
+        {
+            "maco_per_hl": 124616.264505788,
+            "nr_per_hl": 263342.430329587,
+            "segment": "other_value",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 135134.934970144,
+            "nr_per_hl": 245221.860144012,
+            "segment": "other_value",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 137758.446383529,
+            "nr_per_hl": 246575.121377313,
+            "segment": "other_value",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 169057.249984615,
+            "nr_per_hl": 251559.759151905,
+            "segment": "aguila",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 182297.957832325,
+            "nr_per_hl": 292595.126564974,
+            "segment": "poker",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 185154.248281229,
+            "nr_per_hl": 269557.784456025,
+            "segment": "aguila",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 193269.932339644,
+            "nr_per_hl": 277172.021724473,
+            "segment": "poker",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 193980.491124213,
+            "nr_per_hl": 285302.344712148,
+            "segment": "poker",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 198734.471636589,
+            "nr_per_hl": 450528.598173516,
+            "segment": "other_premium",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 198809.957459016,
+            "nr_per_hl": 286841.652496627,
+            "segment": "aguila_light",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 200041.21550112,
+            "nr_per_hl": 281143.275241129,
+            "segment": "aguila_light",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 200686.46040916,
+            "nr_per_hl": 342077.589061298,
+            "segment": "club_colombia",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 201500.180097462,
+            "nr_per_hl": 307642.248034181,
+            "segment": "aguila_light",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 203166.748269746,
+            "nr_per_hl": 373419.400894617,
+            "segment": "club_colombia",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 207751.609743121,
+            "nr_per_hl": 316142.018123992,
+            "segment": "aguila",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 220537.912796226,
+            "nr_per_hl": 482938.722757368,
+            "segment": "other_premium",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 232351.387385456,
+            "nr_per_hl": 358147.980422628,
+            "segment": "club_colombia",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 233286.685222216,
+            "nr_per_hl": 422534.809621866,
+            "segment": "other_premium",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 273304.501152416,
+            "nr_per_hl": 646885.376889135,
+            "segment": "corona",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 301394.598716435,
+            "nr_per_hl": 631107.96300239,
+            "segment": "corona",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 324377.5082760562,
+            "nr_per_hl": 476146.3531364328,
+            "segment": "other_value",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 330952.921822602,
+            "nr_per_hl": 699960.092833783,
+            "segment": "corona",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 356945.70590776106,
+            "nr_per_hl": 496842.07672576775,
+            "segment": "poker",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 390764.4701518598,
+            "nr_per_hl": 523988.34588338155,
+            "segment": "aguila_light",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 414623.78990937636,
+            "nr_per_hl": 551679.1451346562,
+            "segment": "aguila",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 479827.886687323,
+            "nr_per_hl": 674178.755799651,
+            "segment": "club_colombia",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 572010.154769307,
+            "nr_per_hl": 846851.5674460715,
+            "segment": "other_premium",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 657749.6180156833,
+            "nr_per_hl": 1113862.1258414043,
+            "segment": "corona",
+            "year": 2023
+        }
+    ],
+    "maxiter": 120,
+    "maxtime": 180,
+    "nominal_beer_price": null,
+    "nominal_national_beer_price": 0,
+    "pcc_coefficients": [
+        {
+            "coefficient": -0.03,
+            "driver": "may",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.072711155,
+            "driver": "apr",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.092803508,
+            "driver": "feb",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.20004121,
+            "driver": "covid_flag",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.872515678,
+            "driver": "real_beer_price",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.033131675,
+            "driver": "oct",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.0570502,
+            "driver": "alcoholic_beverages_and_tobacco_abs",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.070943452,
+            "driver": "nov",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.16914981,
+            "driver": "dec",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.336135233,
+            "driver": "retail_sales_value_index_usd_monthly",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.509400938,
+            "driver": "production_index_industry_monthly",
+            "driver_category": "pcc"
+        }
+    ],
+    "pcc_historicals": [
+        {
+            "pcc": 62.31,
+            "year": 2020
+        },
+        {
+            "pcc": 65.45,
+            "year": 2017
+        },
+        {
+            "pcc": 66.24,
+            "year": 2018
+        },
+        {
+            "pcc": 68.1,
+            "year": 2019
+        },
+        {
+            "pcc": 74.58,
+            "year": 2021
+        },
+        {
+            "pcc": 80.32,
+            "year": 2022
+        },
+        {
+            "pcc": 82.8,
+            "year": 2023
+        }
+    ],
+    "pinc_driver_input": [
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "medium",
+            "pinc_percentage": 0.0363,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "medium",
+            "pinc_percentage": 0.012,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "small",
+            "pinc_percentage": 0.0442,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "small",
+            "pinc_percentage": 0.1333,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "large",
+            "pinc_percentage": 0.0308,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "large",
+            "pinc_percentage": 0.0833,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "medium",
+            "pinc_percentage": 0.0002,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "medium",
+            "pinc_percentage": 0.0358,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "medium",
+            "pinc_percentage": 0.0202,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "small",
+            "pinc_percentage": 0.0213,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "small",
+            "pinc_percentage": 0.061,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "large",
+            "pinc_percentage": 0.0264,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "large",
+            "pinc_percentage": 0.0894,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "medium",
+            "pinc_percentage": 0.0004,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "medium",
+            "pinc_percentage": 0.0526,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.0859,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.001,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": -0.0005,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.0036,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.0122,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": -0.007,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.0115,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0.0093,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 1,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 10,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 11,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "medium",
+            "pinc_percentage": 0.0169,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 12,
+            "packsize": "small",
+            "pinc_percentage": 0.0309,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "large",
+            "pinc_percentage": 0.0533,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "medium",
+            "pinc_percentage": 0.0031,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 2,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 3,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 4,
+            "packsize": "small",
+            "pinc_percentage": 0.0765,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "medium",
+            "pinc_percentage": 0.0207,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 5,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 6,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "large",
+            "pinc_percentage": 0.0224,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "medium",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 7,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "large",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "medium",
+            "pinc_percentage": 0.0803,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 8,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "large",
+            "pinc_percentage": 0.0939,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "medium",
+            "pinc_percentage": 0.0017,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "country": "Colombia",
+            "month": 9,
+            "packsize": "small",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        }
+    ],
+    "population": [
+        {
+            "legal_age_population": 35450455,
+            "total_population": 50930664,
+            "year": 2020
+        },
+        {
+            "legal_age_population": 35898964,
+            "total_population": 51516560,
+            "year": 2021
+        },
+        {
+            "legal_age_population": 36134434,
+            "total_population": 51874023,
+            "year": 2022
+        },
+        {
+            "legal_age_population": 36204372,
+            "total_population": 52085167,
+            "year": 2023
+        },
+        {
+            "legal_age_population": 36278206,
+            "total_population": 52340771,
+            "year": 2024
+        },
+        {
+            "legal_age_population": 36354141,
+            "total_population": 52610722,
+            "year": 2025
+        },
+        {
+            "legal_age_population": 36441288,
+            "total_population": 52902740,
+            "year": 2026
+        }
+    ],
+    "price_drivers": [
+        {
+            "brand_name": "aguila",
+            "pack_size": "NA",
+            "variable": "aguila_price"
+        },
+        {
+            "brand_name": "aguila",
+            "pack_size": "medium",
+            "variable": "aguila_medium_price"
+        },
+        {
+            "brand_name": "aguila_light",
+            "pack_size": "medium",
+            "variable": "aguila_light_medium_price"
+        },
+        {
+            "brand_name": "club_colombia",
+            "pack_size": "medium",
+            "variable": "club_colombia_medium_price"
+        },
+        {
+            "brand_name": "competitor",
+            "pack_size": "NA",
+            "variable": "andina_medium_price"
+        },
+        {
+            "brand_name": "competitor",
+            "pack_size": "NA",
+            "variable": "heineken_price"
+        },
+        {
+            "brand_name": "competitor",
+            "pack_size": "NA",
+            "variable": "sol_price"
+        },
+        {
+            "brand_name": "corona",
+            "pack_size": "NA",
+            "variable": "corona_price"
+        },
+        {
+            "brand_name": "corona",
+            "pack_size": "medium",
+            "variable": "corona_medium_price"
+        },
+        {
+            "brand_name": "other_premium",
+            "pack_size": "NA",
+            "variable": "costenita_price"
+        },
+        {
+            "brand_name": "other_premium",
+            "pack_size": "small",
+            "variable": "budweiser_small_price"
+        },
+        {
+            "brand_name": "other_value",
+            "pack_size": "NA",
+            "variable": "costena_bacana_price"
+        },
+        {
+            "brand_name": "poker",
+            "pack_size": "large",
+            "variable": "poker_large_price"
+        },
+        {
+            "brand_name": "poker",
+            "pack_size": "medium",
+            "variable": "poker_medium_price"
+        }
+    ],
+    "price_tier": [
+        {
+            "brand": "aguila",
+            "price_tier": "core"
+        },
+        {
+            "brand": "aguila_light",
+            "price_tier": "core"
+        },
+        {
+            "brand": "club_colombia",
+            "price_tier": "premium"
+        },
+        {
+            "brand": "corona",
+            "price_tier": "super_premium"
+        },
+        {
+            "brand": "other_premium",
+            "price_tier": "premium"
+        },
+        {
+            "brand": "other_value",
+            "price_tier": "others"
+        },
+        {
+            "brand": "poker",
+            "price_tier": "core"
+        }
+    ],
+    "pricing_bounds": [
+        {
+            "brand": "aguila",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "large"
+        },
+        {
+            "brand": "aguila",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "medium"
+        },
+        {
+            "brand": "aguila",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "small"
+        },
+        {
+            "brand": "aguila_light",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "large"
+        },
+        {
+            "brand": "aguila_light",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "medium"
+        },
+        {
+            "brand": "aguila_light",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "small"
+        },
+        {
+            "brand": "club_colombia",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "large"
+        },
+        {
+            "brand": "club_colombia",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "medium"
+        },
+        {
+            "brand": "club_colombia",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "small"
+        },
+        {
+            "brand": "corona",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "large"
+        },
+        {
+            "brand": "corona",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "medium"
+        },
+        {
+            "brand": "corona",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "small"
+        },
+        {
+            "brand": "other_premium",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "other_value",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "poker",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "large"
+        },
+        {
+            "brand": "poker",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "medium"
+        },
+        {
+            "brand": "poker",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "small"
+        }
+    ],
+    "ratio_drivers": [
+        {
+            "denominator_driver": "aguila_light_medium_price",
+            "name": "ratio_medium_club_colombia_to_medium_aguila_light",
+            "numerator_driver": "club_colombia_medium_price"
+        },
+        {
+            "denominator_driver": "aguila_medium_price",
+            "name": "ratio_medium_poker_to_medium_aguila",
+            "numerator_driver": "poker_medium_price"
+        },
+        {
+            "denominator_driver": "andina_medium_price",
+            "name": "ratio_medium_aguila_to_medium_andina",
+            "numerator_driver": "aguila_medium_price"
+        },
+        {
+            "denominator_driver": "poker_medium_price",
+            "name": "ratio_medium_aguila_to_medium_poker",
+            "numerator_driver": "aguila_medium_price"
+        }
+    ],
+    "seasonality": [
+        {
+            "month": 1,
+            "seasonality_index": 0.974365685969372,
+            "seasonality_pinc_impact": 1
+        },
+        {
+            "month": 10,
+            "seasonality_index": 1.10728628960914,
+            "seasonality_pinc_impact": 0.347429086662366
+        },
+        {
+            "month": 11,
+            "seasonality_index": 1.25466949886165,
+            "seasonality_pinc_impact": 0.255155229194938
+        },
+        {
+            "month": 12,
+            "seasonality_index": 1.8071932514776,
+            "seasonality_pinc_impact": 0.150599437623133
+        },
+        {
+            "month": 2,
+            "seasonality_index": 0.678039283722633,
+            "seasonality_pinc_impact": 0.918802859502552
+        },
+        {
+            "month": 3,
+            "seasonality_index": 0.850312705615453,
+            "seasonality_pinc_impact": 0.862299585859
+        },
+        {
+            "month": 4,
+            "seasonality_index": 0.599698032297935,
+            "seasonality_pinc_impact": 0.791440193724378
+        },
+        {
+            "month": 5,
+            "seasonality_index": 0.69186766062347,
+            "seasonality_pinc_impact": 0.741465357699551
+        },
+        {
+            "month": 6,
+            "seasonality_index": 1.00280014158372,
+            "seasonality_pinc_impact": 0.683809719314261
+        },
+        {
+            "month": 7,
+            "seasonality_index": 1.0173507012612,
+            "seasonality_pinc_impact": 0.600243040848952
+        },
+        {
+            "month": 8,
+            "seasonality_index": 1.01953931826286,
+            "seasonality_pinc_impact": 0.515463815743852
+        },
+        {
+            "month": 9,
+            "seasonality_index": 0.996877430714971,
+            "seasonality_pinc_impact": 0.430502205888614
+        }
+    ],
+    "seed": 42,
+    "sob_coefficients": [
+        {
+            "brand_name": "aguila",
+            "coefficient": -0.005895685,
+            "driver": "ratio_medium_aguila_to_medium_andina",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": -0.006716275,
+            "driver": "oct",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": -0.013918784,
+            "driver": "jul",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": -0.410768455,
+            "driver": "ratio_medium_aguila_to_medium_poker",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": -0.52895363,
+            "driver": "aguila_light_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": 0.005224888,
+            "driver": "costena_bacana_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "aguila",
+            "coefficient": 0.456968228,
+            "driver": "aguila_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "aguila_light",
+            "coefficient": -0.414631349,
+            "driver": "poker_large_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "aguila_light",
+            "coefficient": -0.545644266,
+            "driver": "poker_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "aguila_light",
+            "coefficient": -1.30338467,
+            "driver": "aguila_light_medium_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "aguila_light",
+            "coefficient": 0.19752072,
+            "driver": "aguila_light_large_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "aguila_light",
+            "coefficient": 1.013821114,
+            "driver": "aguila_light_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "club_colombia",
+            "coefficient": -0.035333077,
+            "driver": "heineken_large_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "club_colombia",
+            "coefficient": -0.435354969,
+            "driver": "aguila_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "club_colombia",
+            "coefficient": -0.925812315,
+            "driver": "ratio_medium_club_colombia_to_medium_aguila_light",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "club_colombia",
+            "coefficient": 0.194018644,
+            "driver": "corona_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "club_colombia",
+            "coefficient": 0.488633066,
+            "driver": "club_colombia_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -0.002916463,
+            "driver": "heineken_large_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -0.174093268,
+            "driver": "sol_price",
+            "driver_category": "competitor_price"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -0.342289483,
+            "driver": "aguila_light_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -0.82452755,
+            "driver": "heineken_price",
+            "driver_category": "competitor_price"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 0.029656543,
+            "driver": "andina_medium_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 0.218833721,
+            "driver": "heineken_medium_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 1.662975255,
+            "driver": "aguila_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": -0.318956834,
+            "driver": "heineken_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": -1.14668379,
+            "driver": "corona_medium_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.88619893,
+            "driver": "corona_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": -0.037185421,
+            "driver": "aguila_small_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": -0.35062122,
+            "driver": "budweiser_small_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": -0.844196339,
+            "driver": "costenita_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": -1.113887593,
+            "driver": "poker_medium_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": 0.004904508,
+            "driver": "becks_small_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": 0.020199684,
+            "driver": "budweiser_medium_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_premium",
+            "coefficient": 0.216537834,
+            "driver": "budweiser_small_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_value",
+            "coefficient": -0.018626672,
+            "driver": "aguila_small_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_value",
+            "coefficient": -0.196140338,
+            "driver": "aguila_large_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_value",
+            "coefficient": 0.240117718,
+            "driver": "pilsen_medium_acv",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "other_value",
+            "coefficient": 0.755371241,
+            "driver": "poker_medium_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": -0.013160577,
+            "driver": "dec",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": -0.397219486,
+            "driver": "ratio_medium_poker_to_medium_aguila",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": -1.306316878,
+            "driver": "poker_large_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": -1.379410913,
+            "driver": "aguila_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.009295178,
+            "driver": "aug",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.016704343,
+            "driver": "feb",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.017372446,
+            "driver": "mar",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.018635048,
+            "driver": "jun",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.021042775,
+            "driver": "jul",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "poker",
+            "coefficient": 0.935423154,
+            "driver": "poker_medium_tdp",
+            "driver_category": "distribution"
+        }
+    ],
+    "sob_historicals": [
+        {
+            "brand_name": "aguila",
+            "sob": 0.258,
+            "year": 2019
+        },
+        {
+            "brand_name": "aguila",
+            "sob": 0.27090084,
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "sob": 0.323,
+            "year": 2022
+        },
+        {
+            "brand_name": "aguila",
+            "sob": 0.329,
+            "year": 2020
+        },
+        {
+            "brand_name": "aguila",
+            "sob": 0.344,
+            "year": 2021
+        },
+        {
+            "brand_name": "aguila_light",
+            "sob": 0.137,
+            "year": 2022
+        },
+        {
+            "brand_name": "aguila_light",
+            "sob": 0.142885823,
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila_light",
+            "sob": 0.152,
+            "year": 2021
+        },
+        {
+            "brand_name": "aguila_light",
+            "sob": 0.169,
+            "year": 2020
+        },
+        {
+            "brand_name": "aguila_light",
+            "sob": 0.211,
+            "year": 2019
+        },
+        {
+            "brand_name": "club_colombia",
+            "sob": 0.034,
+            "year": 2020
+        },
+        {
+            "brand_name": "club_colombia",
+            "sob": 0.038,
+            "year": 2021
+        },
+        {
+            "brand_name": "club_colombia",
+            "sob": 0.041456142,
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "sob": 0.042,
+            "year": 2022
+        },
+        {
+            "brand_name": "club_colombia",
+            "sob": 0.047,
+            "year": 2019
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.039,
+            "year": 2019
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.051,
+            "year": 2020
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.053,
+            "year": 2021
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.06,
+            "year": 2022
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.062062134,
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.027,
+            "year": 2019
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.028,
+            "year": 2020
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.033,
+            "year": 2021
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.043,
+            "year": 2022
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.045593487,
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "sob": 0.043,
+            "year": 2019
+        },
+        {
+            "brand_name": "other_premium",
+            "sob": 0.046933606,
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "sob": 0.049,
+            "year": 2020
+        },
+        {
+            "brand_name": "other_premium",
+            "sob": 0.054,
+            "year": 2022
+        },
+        {
+            "brand_name": "other_premium",
+            "sob": 0.055,
+            "year": 2021
+        },
+        {
+            "brand_name": "other_value",
+            "sob": 0.079,
+            "year": 2019
+        },
+        {
+            "brand_name": "other_value",
+            "sob": 0.086,
+            "year": 2020
+        },
+        {
+            "brand_name": "other_value",
+            "sob": 0.103,
+            "year": 2021
+        },
+        {
+            "brand_name": "other_value",
+            "sob": 0.119,
+            "year": 2022
+        },
+        {
+            "brand_name": "other_value",
+            "sob": 0.129021584,
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "sob": 0.222,
+            "year": 2021
+        },
+        {
+            "brand_name": "poker",
+            "sob": 0.223,
+            "year": 2022
+        },
+        {
+            "brand_name": "poker",
+            "sob": 0.255,
+            "year": 2020
+        },
+        {
+            "brand_name": "poker",
+            "sob": 0.261146383,
+            "year": 2023
+        },
+        {
+            "brand_name": "poker",
+            "sob": 0.297,
+            "year": 2019
+        }
+    ],
+    "start_time": 0,
+    "target_category": "maco",
+    "target_year": 2024,
+    "task_id": "8fab3cc6-7ef7-460c-baa1-badea8b138c7",
+    "vilc_growth": [
+        {
+            "brand_name": "aguila",
+            "value": -0.013112573,
+            "year": 2021
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.04042763,
+            "year": 2026
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.040913154,
+            "year": 2027
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.042001807,
+            "year": 2025
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.043962396,
+            "year": 2024
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.078689632,
+            "year": 2019
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.098335421,
+            "year": 2020
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.248276779,
+            "year": 2023
+        },
+        {
+            "brand_name": "aguila",
+            "value": 0.267613431,
+            "year": 2022
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.038206073,
+            "year": 2024
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.040432087,
+            "year": 2026
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.040915935,
+            "year": 2027
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.041998669,
+            "year": 2025
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.04809612,
+            "year": 2021
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.107242903,
+            "year": 2019
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.161637174,
+            "year": 2020
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.190702131,
+            "year": 2022
+        },
+        {
+            "brand_name": "aguila_light",
+            "value": 0.207172705,
+            "year": 2023
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": -0.05275837,
+            "year": 2024
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.040428363,
+            "year": 2026
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.040910605,
+            "year": 2027
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.042004501,
+            "year": 2025
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.062931869,
+            "year": 2019
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.084859918,
+            "year": 2021
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.17953952,
+            "year": 2020
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.185373074,
+            "year": 2022
+        },
+        {
+            "brand_name": "club_colombia",
+            "value": 0.310991356,
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "value": -0.019390967,
+            "year": 2022
+        },
+        {
+            "brand_name": "corona",
+            "value": -0.085688314,
+            "year": 2019
+        },
+        {
+            "brand_name": "corona",
+            "value": -0.237263031,
+            "year": 2020
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.020496663,
+            "year": 2024
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.04043135,
+            "year": 2026
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.04091097,
+            "year": 2027
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.042003096,
+            "year": 2025
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.082538247,
+            "year": 2021
+        },
+        {
+            "brand_name": "corona",
+            "value": 0.272584512,
+            "year": 2023
+        },
+        {
+            "brand_name": "other_premium",
+            "value": -0.053884931,
+            "year": 2024
+        },
+        {
+            "brand_name": "other_premium",
+            "value": -0.079244529,
+            "year": 2019
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.040430727,
+            "year": 2026
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.040913149,
+            "year": 2027
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.04200238,
+            "year": 2025
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.081779243,
+            "year": 2022
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.128403646,
+            "year": 2020
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.275508183,
+            "year": 2021
+        },
+        {
+            "brand_name": "other_premium",
+            "value": 0.304620918,
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "value": -0.023542905,
+            "year": 2021
+        },
+        {
+            "brand_name": "other_value",
+            "value": -0.077013488,
+            "year": 2024
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.040429508,
+            "year": 2026
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.040911164,
+            "year": 2027
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.04200408,
+            "year": 2025
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.23538515,
+            "year": 2019
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.242890305,
+            "year": 2022
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.304174418,
+            "year": 2023
+        },
+        {
+            "brand_name": "other_value",
+            "value": 0.415456591,
+            "year": 2020
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.026957313,
+            "year": 2024
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.040430775,
+            "year": 2026
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.040916849,
+            "year": 2027
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.042002322,
+            "year": 2025
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.04832484,
+            "year": 2021
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.106818798,
+            "year": 2020
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.137143528,
+            "year": 2019
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.188081916,
+            "year": 2022
+        },
+        {
+            "brand_name": "poker",
+            "value": 0.295856936,
+            "year": 2023
+        }
+    ]
+}

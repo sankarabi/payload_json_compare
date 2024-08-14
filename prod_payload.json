@@ -1,0 +1,2425 @@
+{
+    "abi_volume": [
+        {
+            "brand_pack": "arequipena_san_juan_pilsen_trujillo",
+            "metric": "ABI volume (HL)",
+            "value": 1358052.766,
+            "year": 2020
+        },
+        {
+            "brand_pack": "arequipena_san_juan_pilsen_trujillo",
+            "metric": "ABI volume (HL)",
+            "value": 1710837.883,
+            "year": 2021
+        },
+        {
+            "brand_pack": "arequipena_san_juan_pilsen_trujillo",
+            "metric": "ABI volume (HL)",
+            "value": 1731665,
+            "year": 2023
+        },
+        {
+            "brand_pack": "arequipena_san_juan_pilsen_trujillo",
+            "metric": "ABI volume (HL)",
+            "value": 1807961.15,
+            "year": 2022
+        },
+        {
+            "brand_pack": "budweiser_stella",
+            "metric": "ABI volume (HL)",
+            "value": 48410,
+            "year": 2023
+        },
+        {
+            "brand_pack": "budweiser_stella",
+            "metric": "ABI volume (HL)",
+            "value": 49847.627,
+            "year": 2020
+        },
+        {
+            "brand_pack": "budweiser_stella",
+            "metric": "ABI volume (HL)",
+            "value": 54670.998,
+            "year": 2021
+        },
+        {
+            "brand_pack": "budweiser_stella",
+            "metric": "ABI volume (HL)",
+            "value": 66393.72897,
+            "year": 2022
+        },
+        {
+            "brand_pack": "corona",
+            "metric": "ABI volume (HL)",
+            "value": 191353.829,
+            "year": 2020
+        },
+        {
+            "brand_pack": "corona",
+            "metric": "ABI volume (HL)",
+            "value": 196513,
+            "year": 2023
+        },
+        {
+            "brand_pack": "corona",
+            "metric": "ABI volume (HL)",
+            "value": 260992.5525,
+            "year": 2022
+        },
+        {
+            "brand_pack": "corona",
+            "metric": "ABI volume (HL)",
+            "value": 300723.515,
+            "year": 2021
+        },
+        {
+            "brand_pack": "cristal",
+            "metric": "ABI volume (HL)",
+            "value": 3711383,
+            "year": 2023
+        },
+        {
+            "brand_pack": "cristal",
+            "metric": "ABI volume (HL)",
+            "value": 4084179.882,
+            "year": 2020
+        },
+        {
+            "brand_pack": "cristal",
+            "metric": "ABI volume (HL)",
+            "value": 4985649.706,
+            "year": 2022
+        },
+        {
+            "brand_pack": "cristal",
+            "metric": "ABI volume (HL)",
+            "value": 5292294.144,
+            "year": 2021
+        },
+        {
+            "brand_pack": "cusquena",
+            "metric": "ABI volume (HL)",
+            "value": 1549503.153,
+            "year": 2021
+        },
+        {
+            "brand_pack": "cusquena",
+            "metric": "ABI volume (HL)",
+            "value": 1624564,
+            "year": 2023
+        },
+        {
+            "brand_pack": "cusquena",
+            "metric": "ABI volume (HL)",
+            "value": 1709651.728,
+            "year": 2022
+        },
+        {
+            "brand_pack": "cusquena",
+            "metric": "ABI volume (HL)",
+            "value": 958857.487,
+            "year": 2020
+        },
+        {
+            "brand_pack": "golden",
+            "metric": "ABI volume (HL)",
+            "value": 222745.7325,
+            "year": 2022
+        },
+        {
+            "brand_pack": "golden",
+            "metric": "ABI volume (HL)",
+            "value": 231865,
+            "year": 2023
+        },
+        {
+            "brand_pack": "golden",
+            "metric": "ABI volume (HL)",
+            "value": 292514.11,
+            "year": 2020
+        },
+        {
+            "brand_pack": "golden",
+            "metric": "ABI volume (HL)",
+            "value": 299288.736,
+            "year": 2021
+        },
+        {
+            "brand_pack": "pilsen",
+            "metric": "ABI volume (HL)",
+            "value": 3317916.732,
+            "year": 2020
+        },
+        {
+            "brand_pack": "pilsen",
+            "metric": "ABI volume (HL)",
+            "value": 4525302.9,
+            "year": 2021
+        },
+        {
+            "brand_pack": "pilsen",
+            "metric": "ABI volume (HL)",
+            "value": 5680990.443,
+            "year": 2022
+        },
+        {
+            "brand_pack": "pilsen",
+            "metric": "ABI volume (HL)",
+            "value": 6860278,
+            "year": 2023
+        }
+    ],
+    "assumptions": [
+        {
+            "arequipena_botella_medium_tdp": {
+                "2024": 0.01,
+                "2025": 0.005,
+                "2026": 0.0075
+            }
+        },
+        {
+            "brand_power": {
+                "2024": 0,
+                "2025": 0.014454664,
+                "2026": 0
+            }
+        },
+        {
+            "budweiser_lata_small_price": {
+                "2024": 0.099985165,
+                "2025": 0.037133244,
+                "2026": 0.1
+            }
+        },
+        {
+            "budweiser_lata_small_tdp": {
+                "2024": -1,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "coolers": {
+                "2024": 0.066564121,
+                "2025": 0.051972158,
+                "2026": 0.049404499
+            }
+        },
+        {
+            "corona_botella_small_tdp": {
+                "2024": 0.573853,
+                "2025": 0.07,
+                "2026": 0.1
+            }
+        },
+        {
+            "corona_brand_power": {
+                "2024": 0,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "corona_promotion": {
+                "2024": 0,
+                "2025": 0.161587,
+                "2026": 0
+            }
+        },
+        {
+            "corona_tdp": {
+                "2024": 0.05589,
+                "2025": 0.014022,
+                "2026": 0.014022
+            }
+        },
+        {
+            "covid": {
+                "2024": 0,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "covid_flag": {
+                "2024": 0,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "cristal_botella_large_tdp": {
+                "2024": 0.035,
+                "2025": 0.025,
+                "2026": 0.02
+            }
+        },
+        {
+            "cristal_tdp": {
+                "2024": 0.014022,
+                "2025": 0.033016,
+                "2026": 0.033016
+            }
+        },
+        {
+            "cusquena_botella_medium_tdp": {
+                "2024": 0.065767866,
+                "2025": 0.020755405,
+                "2026": 0.019458192
+            }
+        },
+        {
+            "cusquena_brand_power": {
+                "2024": 0,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "cusquena_promotion": {
+                "2024": 0.20047032,
+                "2025": 0,
+                "2026": -0.1
+            }
+        },
+        {
+            "cusquena_tdp": {
+                "2024": 0.07737396,
+                "2025": 0.025944256,
+                "2026": 0.025944256
+            }
+        },
+        {
+            "golden_tdp": {
+                "2024": 0.077374,
+                "2025": 0.025,
+                "2026": 0.02
+            }
+        },
+        {
+            "heineken_botella_small_price": {
+                "2024": 0.035769,
+                "2025": 0.028972,
+                "2026": 0.017892
+            }
+        },
+        {
+            "media_investments": {
+                "2024": 0.048281438,
+                "2025": 0.085411397,
+                "2026": 0.134502434
+            }
+        },
+        {
+            "pilsen_botella_medium_price": {
+                "2024": 0.128443179,
+                "2025": 0.059532728,
+                "2026": 0.021743058
+            }
+        },
+        {
+            "pilsen_botella_medium_tdp": {
+                "2024": 0.008242484,
+                "2025": 0.01709337,
+                "2026": 0.025944256
+            }
+        },
+        {
+            "pilsen_lata_small_tdp": {
+                "2024": 0.05,
+                "2025": 0.024492164,
+                "2026": 0.009
+            }
+        },
+        {
+            "real_gdp_bank_of_peru": {
+                "2024": 0.026,
+                "2025": 0.029,
+                "2026": 0.028
+            }
+        },
+        {
+            "regional_core_botella_medium_tdp": {
+                "2024": 0.009,
+                "2025": 0.008,
+                "2026": 0.003
+            }
+        },
+        {
+            "regional_core_tdp": {
+                "2024": 0.0108,
+                "2025": 0.0096,
+                "2026": 0.0036
+            }
+        },
+        {
+            "san_juan_botella_medium_price": {
+                "2024": 0,
+                "2025": 0.028099814,
+                "2026": 0.046498149
+            }
+        },
+        {
+            "san_juan_tdp": {
+                "2024": 0.009,
+                "2025": 0.008,
+                "2026": 0.003
+            }
+        },
+        {
+            "stella_artois_botella_small_tdp": {
+                "2024": 0.023,
+                "2025": 0.013,
+                "2026": 0.013
+            }
+        },
+        {
+            "stella_botella_small_tdp": {
+                "2024": 0.023,
+                "2025": 0.013,
+                "2026": 0.013
+            }
+        },
+        {
+            "strike_flag": {
+                "2024": -0.884679037,
+                "2025": 0,
+                "2026": 0
+            }
+        },
+        {
+            "tres_cruces_lata_medium_price": {
+                "2024": 0,
+                "2025": 0.026,
+                "2026": 0.0172
+            }
+        },
+        {
+            "tres_cruces_lata_small_price": {
+                "2024": 0,
+                "2025": 0.026,
+                "2026": 0.0172
+            }
+        },
+        {
+            "tres_cruces_lata_small_tdp": {
+                "2024": 0,
+                "2025": 0.048984329,
+                "2026": 0.024492164
+            }
+        },
+        {
+            "tres_cruces_tdp": {
+                "2024": -0.014655906,
+                "2025": 0.097968657,
+                "2026": 0.041656376
+            }
+        },
+        {
+            "vilc_growth": {
+                "2024": 0.0501,
+                "2025": 0,
+                "2026": 0
+            }
+        }
+    ],
+    "brand_pack_size": [
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "pack_size": "all_packs",
+            "value": 370.010484923971,
+            "year": 2020
+        },
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "pack_size": "all_packs",
+            "value": 389.444966598276,
+            "year": 2021
+        },
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "pack_size": "all_packs",
+            "value": 398.449982788624,
+            "year": 2022
+        },
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "pack_size": "all_packs",
+            "value": 435.932112735431,
+            "year": 2023
+        },
+        {
+            "brand": "budweiser_stella",
+            "pack_size": "all_packs",
+            "value": 618.437892609899,
+            "year": 2021
+        },
+        {
+            "brand": "budweiser_stella",
+            "pack_size": "all_packs",
+            "value": 629.607848132871,
+            "year": 2020
+        },
+        {
+            "brand": "budweiser_stella",
+            "pack_size": "all_packs",
+            "value": 672.172774220202,
+            "year": 2023
+        },
+        {
+            "brand": "budweiser_stella",
+            "pack_size": "all_packs",
+            "value": 693.140229867104,
+            "year": 2022
+        },
+        {
+            "brand": "corona",
+            "pack_size": "all_packs",
+            "value": 603.449145637979,
+            "year": 2021
+        },
+        {
+            "brand": "corona",
+            "pack_size": "all_packs",
+            "value": 756.357777856936,
+            "year": 2023
+        },
+        {
+            "brand": "corona",
+            "pack_size": "all_packs",
+            "value": 758.428763211548,
+            "year": 2022
+        },
+        {
+            "brand": "corona",
+            "pack_size": "all_packs",
+            "value": 845.284751526974,
+            "year": 2020
+        },
+        {
+            "brand": "cristal",
+            "pack_size": "all_packs",
+            "value": 330.216776921091,
+            "year": 2020
+        },
+        {
+            "brand": "cristal",
+            "pack_size": "all_packs",
+            "value": 331.811602722587,
+            "year": 2021
+        },
+        {
+            "brand": "cristal",
+            "pack_size": "all_packs",
+            "value": 370.661429898701,
+            "year": 2022
+        },
+        {
+            "brand": "cristal",
+            "pack_size": "all_packs",
+            "value": 422.542698772937,
+            "year": 2023
+        },
+        {
+            "brand": "cusquena",
+            "pack_size": "all_packs",
+            "value": 454.004353355453,
+            "year": 2021
+        },
+        {
+            "brand": "cusquena",
+            "pack_size": "all_packs",
+            "value": 463.307045831267,
+            "year": 2022
+        },
+        {
+            "brand": "cusquena",
+            "pack_size": "all_packs",
+            "value": 463.922242388456,
+            "year": 2020
+        },
+        {
+            "brand": "cusquena",
+            "pack_size": "all_packs",
+            "value": 512.250931942355,
+            "year": 2023
+        },
+        {
+            "brand": "golden",
+            "pack_size": "all_packs",
+            "value": 305.057991595688,
+            "year": 2020
+        },
+        {
+            "brand": "golden",
+            "pack_size": "all_packs",
+            "value": 318.600600190981,
+            "year": 2021
+        },
+        {
+            "brand": "golden",
+            "pack_size": "all_packs",
+            "value": 331.134854333341,
+            "year": 2023
+        },
+        {
+            "brand": "golden",
+            "pack_size": "all_packs",
+            "value": 343.980791730769,
+            "year": 2022
+        },
+        {
+            "brand": "pilsen",
+            "pack_size": "all_packs",
+            "value": 360.42594916685,
+            "year": 2021
+        },
+        {
+            "brand": "pilsen",
+            "pack_size": "all_packs",
+            "value": 362.574282048016,
+            "year": 2020
+        },
+        {
+            "brand": "pilsen",
+            "pack_size": "all_packs",
+            "value": 371.4923237726,
+            "year": 2022
+        },
+        {
+            "brand": "pilsen",
+            "pack_size": "all_packs",
+            "value": 417.541870314876,
+            "year": 2023
+        }
+    ],
+    "brand_pack_weights": [
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "brand_nr_weight": 0.120249264,
+            "brand_packsize_nr_weight": 0.120249264,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "brand_nr_weight": 0.005183411,
+            "brand_packsize_nr_weight": 0.005183411,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "corona",
+            "brand_nr_weight": 0.023676541,
+            "brand_packsize_nr_weight": 0.023676541,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "cristal",
+            "brand_nr_weight": 0.249807838,
+            "brand_packsize_nr_weight": 0.249807838,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "cusquena",
+            "brand_nr_weight": 0.132562067,
+            "brand_packsize_nr_weight": 0.132562067,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "golden",
+            "brand_nr_weight": 0.012230375,
+            "brand_packsize_nr_weight": 0.012230375,
+            "packsize": "all_packs"
+        },
+        {
+            "brand_name": "pilsen",
+            "brand_nr_weight": 0.456290505,
+            "brand_packsize_nr_weight": 0.456290505,
+            "packsize": "all_packs"
+        }
+    ],
+    "constraints": [
+        {
+            "left_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "maximum_percent_lesser": 30,
+            "right_brands": [
+                "cusquena"
+            ],
+            "target": "gap_core_premium",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "maximum_percent_lesser": 70,
+            "right_brands": [
+                "budweiser_stella",
+                "corona"
+            ],
+            "target": "gap_core_spremium",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "minimum_percent_greater": 14.000000000000002,
+            "right_brands": [
+                "cusquena"
+            ],
+            "target": "gap_core_premium",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "minimum_percent_greater": 20,
+            "right_brands": [
+                "budweiser_stella",
+                "corona"
+            ],
+            "target": "gap_core_spremium",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "golden"
+            ],
+            "maximum_percent_lesser": 20,
+            "right_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "target": "gap_value_core",
+            "type": "price_gap_brands"
+        },
+        {
+            "left_brands": [
+                "golden"
+            ],
+            "minimum_percent_greater": 10,
+            "right_brands": [
+                "arequipena_san_juan_pilsen_trujillo",
+                "cristal",
+                "pilsen"
+            ],
+            "target": "gap_value_core",
+            "type": "price_gap_brands"
+        },
+        {
+            "maximum_percent_decrease": 0.5,
+            "target": "pcc",
+            "type": "year_decrease"
+        },
+        {
+            "maximum_percent_decrease": 1,
+            "target": "abi_sob",
+            "type": "year_decrease"
+        },
+        {
+            "start_year": 18180000,
+            "type": "maximum_capacity",
+            "year_increase": 0
+        },
+        {
+            "tolerance_level": 5,
+            "total_price_change": 4,
+            "type": "total_price_change"
+        }
+    ],
+    "count_of_processes": 8,
+    "country": "peru",
+    "cpi": {
+        "2024": 0.035769014,
+        "2025": 0.028972466,
+        "2026": 0.017891793
+    },
+    "financial_historicals": [
+        {
+            "maco_per_hl": 116.723259657096,
+            "nr_per_hl": 672.172774220202,
+            "segment": "budweiser_stella",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 117.293606193259,
+            "nr_per_hl": 331.134854333341,
+            "segment": "golden",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 131.476220268328,
+            "nr_per_hl": 343.980791730769,
+            "segment": "golden",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 173.185808603235,
+            "nr_per_hl": 318.600600190981,
+            "segment": "golden",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 192.40137266235,
+            "nr_per_hl": 693.140229867104,
+            "segment": "budweiser_stella",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 197.933136524594,
+            "nr_per_hl": 305.057991595688,
+            "segment": "golden",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 23.5595689615426,
+            "nr_per_hl": 603.449145637979,
+            "segment": "corona",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 231.689288438946,
+            "nr_per_hl": 629.607848132871,
+            "segment": "budweiser_stella",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 243.430369315466,
+            "nr_per_hl": 331.811602722587,
+            "segment": "cristal",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 252.877406398411,
+            "nr_per_hl": 371.4923237726,
+            "segment": "pilsen",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 254.30244818409,
+            "nr_per_hl": 756.357777856936,
+            "segment": "corona",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 255.275638958745,
+            "nr_per_hl": 330.216776921091,
+            "segment": "cristal",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 270.136621788567,
+            "nr_per_hl": 370.661429898701,
+            "segment": "cristal",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 272.02038254721,
+            "nr_per_hl": 360.42594916685,
+            "segment": "pilsen",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 277.260532558778,
+            "nr_per_hl": 362.574282048016,
+            "segment": "pilsen",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 287.99586605674,
+            "nr_per_hl": 417.541870314876,
+            "segment": "pilsen",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 295.302152052021,
+            "nr_per_hl": 370.010484923971,
+            "segment": "arequipena_san_juan_pilsen_trujillo",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 301.354867829986,
+            "nr_per_hl": 398.449982788624,
+            "segment": "arequipena_san_juan_pilsen_trujillo",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 308.278157235544,
+            "nr_per_hl": 389.444966598276,
+            "segment": "arequipena_san_juan_pilsen_trujillo",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 317.798276814869,
+            "nr_per_hl": 422.542698772937,
+            "segment": "cristal",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 323.70371290059,
+            "nr_per_hl": 435.932112735431,
+            "segment": "arequipena_san_juan_pilsen_trujillo",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 344.834595620733,
+            "nr_per_hl": 512.250931942355,
+            "segment": "cusquena",
+            "year": 2023
+        },
+        {
+            "maco_per_hl": 345.078529000849,
+            "nr_per_hl": 845.284751526974,
+            "segment": "corona",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 350.834788089659,
+            "nr_per_hl": 463.307045831267,
+            "segment": "cusquena",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 357.968915568961,
+            "nr_per_hl": 758.428763211548,
+            "segment": "corona",
+            "year": 2022
+        },
+        {
+            "maco_per_hl": 367.395261634553,
+            "nr_per_hl": 454.004353355453,
+            "segment": "cusquena",
+            "year": 2021
+        },
+        {
+            "maco_per_hl": 378.897038637818,
+            "nr_per_hl": 463.922242388456,
+            "segment": "cusquena",
+            "year": 2020
+        },
+        {
+            "maco_per_hl": 98.438821493619,
+            "nr_per_hl": 618.437892609899,
+            "segment": "budweiser_stella",
+            "year": 2021
+        }
+    ],
+    "maxiter": 120,
+    "maxtime": 180,
+    "nominal_beer_price": {
+        "2024": 0.035769014,
+        "2025": 0.028972466,
+        "2026": 0.017891793
+    },
+    "nominal_national_beer_price": 0,
+    "pcc_coefficients": [
+        {
+            "coefficient": -0.00745959784642244,
+            "driver": "strike_flag",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.041514384767917,
+            "driver": "covid_flag",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": -0.965791613623644,
+            "driver": "real_beer_price",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.001,
+            "driver": "sep",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.002,
+            "driver": "jan",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.003,
+            "driver": "mar",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.003,
+            "driver": "oct",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.004,
+            "driver": "feb",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.006,
+            "driver": "may",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.007,
+            "driver": "nov",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.031,
+            "driver": "dec",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.0909058331646372,
+            "driver": "coolers",
+            "driver_category": "pcc"
+        },
+        {
+            "coefficient": 0.655840242112792,
+            "driver": "real_gdp_bank_of_peru",
+            "driver_category": "pcc"
+        }
+    ],
+    "pcc_historicals": [
+        {
+            "pcc": 48.1272865406409,
+            "year": 2020
+        },
+        {
+            "pcc": 64.3624207238954,
+            "year": 2021
+        },
+        {
+            "pcc": 66.2794164211214,
+            "year": 2019
+        },
+        {
+            "pcc": 67.3321933345356,
+            "year": 2023
+        },
+        {
+            "pcc": 68.1209142672798,
+            "year": 2022
+        }
+    ],
+    "pinc_driver_input": [
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 1,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 10,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 11,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 12,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 2,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 3,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 4,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 5,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 6,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 7,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 8,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        },
+        {
+            "brand_name": "pilsen",
+            "country": "Peru",
+            "month": 9,
+            "packsize": "all_packs",
+            "pinc_percentage": 0,
+            "region": "country",
+            "year": 2023
+        }
+    ],
+    "population": [
+        {
+            "legal_age_population": 21672270,
+            "total_population": 50930664,
+            "year": 2020
+        },
+        {
+            "legal_age_population": 22032820,
+            "total_population": 51516560,
+            "year": 2021
+        },
+        {
+            "legal_age_population": 22330236,
+            "total_population": 51874023,
+            "year": 2022
+        },
+        {
+            "legal_age_population": 22585144,
+            "total_population": 52085167,
+            "year": 2023
+        },
+        {
+            "legal_age_population": 22850368,
+            "total_population": 52340771,
+            "year": 2024
+        },
+        {
+            "legal_age_population": 23115493,
+            "total_population": 52610722,
+            "year": 2025
+        },
+        {
+            "legal_age_population": 23379569,
+            "total_population": 52902740,
+            "year": 2026
+        }
+    ],
+    "price_tier": [
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "price_tier": "core"
+        },
+        {
+            "brand": "budweiser_stella",
+            "price_tier": "super_premium"
+        },
+        {
+            "brand": "corona",
+            "price_tier": "super_premium"
+        },
+        {
+            "brand": "cristal",
+            "price_tier": "core"
+        },
+        {
+            "brand": "cusquena",
+            "price_tier": "premium"
+        },
+        {
+            "brand": "golden",
+            "price_tier": "value"
+        },
+        {
+            "brand": "pilsen",
+            "price_tier": "core"
+        }
+    ],
+    "pricing_bounds": [
+        {
+            "brand": "arequipena_san_juan_pilsen_trujillo",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "budweiser_stella",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "corona",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "cristal",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "cusquena",
+            "maximum_value": 20,
+            "minimum_value": 0.063,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "golden",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        },
+        {
+            "brand": "pilsen",
+            "maximum_value": 20,
+            "minimum_value": 0,
+            "pack_size": "all_packs"
+        }
+    ],
+    "seasonality": [],
+    "seed": 42,
+    "sob_coefficients": [
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": -0.306800087,
+            "driver": "pilsen_lata_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": -0.419584282,
+            "driver": "ratio_arequipena_vs_pilsen_botella_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": -0.968310152,
+            "driver": "san_juan_botella_medium_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": -1.133570758,
+            "driver": "ratio_pilsen_trujillo_vs_pilsen_botella_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": 0.103136466,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "coefficient": 0.652422657,
+            "driver": "regional_core_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": -0.601,
+            "driver": "corona_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": -0.601,
+            "driver": "ratio_stella_corona_botella_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": -1.01,
+            "driver": "ratio_budweiser_cusquena_botella_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": 0.254,
+            "driver": "stella_artois_botella_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": 0.257,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "coefficient": 0.326,
+            "driver": "budweiser_lata_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -0.655,
+            "driver": "ratio_tres_cruces_vs_pilsen_lata_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": -1.14,
+            "driver": "ratio_heineken_vs_cusquena_botella_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 0.402,
+            "driver": "brand_power",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 0.438,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "competitor",
+            "coefficient": 0.684,
+            "driver": "tres_cruces_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": -0.496341837,
+            "driver": "stella_botella_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": -3.356304701,
+            "driver": "ratio_corona_vs_pilsen_botella_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.081419152,
+            "driver": "corona_promotion",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.1211421,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.399075759,
+            "driver": "corona_botella_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.532652053,
+            "driver": "corona_brand_power",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "corona",
+            "coefficient": 0.872148264,
+            "driver": "budweiser_lata_small_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": -0.192,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": -0.393,
+            "driver": "ratio_cristal_vs_tres_cruces_lata_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": -0.611,
+            "driver": "cusquena_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": -1.241,
+            "driver": "ratio_cristal_vs_pilsen_botella_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": 0.011,
+            "driver": "media_investments",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": 0.088,
+            "driver": "cristal_botella_large_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "cristal",
+            "coefficient": 0.286,
+            "driver": "tres_cruces_lata_small_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": -0.264813145,
+            "driver": "ratio_cusquena_vs_pilsen_lata_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": -0.871585168,
+            "driver": "arequipena_botella_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": 0.05235317,
+            "driver": "cusquena_promotion",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": 0.168534279,
+            "driver": "cusquena_brand_power",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": 0.633902239,
+            "driver": "pilsen_botella_medium_price",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "cusquena",
+            "coefficient": 0.726555037,
+            "driver": "cusquena_botella_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -0.157,
+            "driver": "covid",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -0.343,
+            "driver": "cristal_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -0.447,
+            "driver": "ratio_golden_vs_tres_cruces_lata_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -0.45,
+            "driver": "tres_cruces_lata_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -1.695,
+            "driver": "regional_core_botella_medium_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": -5.026,
+            "driver": "ratio_golden_botella_medium_vs_pilsen_botella_large",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "golden",
+            "coefficient": 1.065,
+            "driver": "golden_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.026,
+            "driver": "august",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.029,
+            "driver": "september",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.139,
+            "driver": "tres_cruces_lata_small_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.254,
+            "driver": "san_juan_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.335,
+            "driver": "cristal_tdp",
+            "driver_category": "distribution"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.519,
+            "driver": "ratio_pilsen_vs_tres_cruces_lata_small",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -0.72,
+            "driver": "ratio_pilsen_vs_cristal_botella_large",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": -1.404,
+            "driver": "ratio_pilsen_vs_cusquena_botella_medium",
+            "driver_category": "price"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": 0.023,
+            "driver": "march",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": 0.029,
+            "driver": "june",
+            "driver_category": "other"
+        },
+        {
+            "brand_name": "pilsen",
+            "coefficient": 0.816,
+            "driver": "pilsen_botella_medium_tdp",
+            "driver_category": "distribution"
+        }
+    ],
+    "sob_historicals": [
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "sob": 0.09510385,
+            "year": 2023
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "sob": 0.106498369,
+            "year": 2022
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "sob": 0.120701152,
+            "year": 2021
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "sob": 0.141373341,
+            "year": 2019
+        },
+        {
+            "brand_name": "arequipena_san_juan_pilsen_trujillo",
+            "sob": 0.14758607,
+            "year": 2020
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "sob": 0.002289496,
+            "year": 2023
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "sob": 0.002854777,
+            "year": 2022
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "sob": 0.003411995,
+            "year": 2021
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "sob": 0.005047302,
+            "year": 2020
+        },
+        {
+            "brand_name": "budweiser_stella",
+            "sob": 0.006930495,
+            "year": 2019
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.008787148,
+            "year": 2019
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.016676371,
+            "year": 2020
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.027145139,
+            "year": 2023
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.027822719,
+            "year": 2021
+        },
+        {
+            "brand_name": "competitor",
+            "sob": 0.028676622,
+            "year": 2022
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.008245161,
+            "year": 2019
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.00920012,
+            "year": 2023
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.011920575,
+            "year": 2022
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.013368213,
+            "year": 2021
+        },
+        {
+            "brand_name": "corona",
+            "sob": 0.015314504,
+            "year": 2020
+        },
+        {
+            "brand_name": "cristal",
+            "sob": 0.239361587,
+            "year": 2023
+        },
+        {
+            "brand_name": "cristal",
+            "sob": 0.281649503,
+            "year": 2022
+        },
+        {
+            "brand_name": "cristal",
+            "sob": 0.299539377,
+            "year": 2021
+        },
+        {
+            "brand_name": "cristal",
+            "sob": 0.317342262,
+            "year": 2020
+        },
+        {
+            "brand_name": "cristal",
+            "sob": 0.387228049,
+            "year": 2019
+        },
+        {
+            "brand_name": "cusquena",
+            "sob": 0.115462027,
+            "year": 2019
+        },
+        {
+            "brand_name": "cusquena",
+            "sob": 0.119227177,
+            "year": 2020
+        },
+        {
+            "brand_name": "cusquena",
+            "sob": 0.132671036,
+            "year": 2023
+        },
+        {
+            "brand_name": "cusquena",
+            "sob": 0.139471015,
+            "year": 2021
+        },
+        {
+            "brand_name": "cusquena",
+            "sob": 0.144575728,
+            "year": 2022
+        },
+        {
+            "brand_name": "golden",
+            "sob": 0.000648729,
+            "year": 2019
+        },
+        {
+            "brand_name": "golden",
+            "sob": 0.016714989,
+            "year": 2022
+        },
+        {
+            "brand_name": "golden",
+            "sob": 0.016898716,
+            "year": 2023
+        },
+        {
+            "brand_name": "golden",
+            "sob": 0.030239298,
+            "year": 2021
+        },
+        {
+            "brand_name": "golden",
+            "sob": 0.031672654,
+            "year": 2020
+        },
+        {
+            "brand_name": "pilsen",
+            "sob": 0.33132505,
+            "year": 2019
+        },
+        {
+            "brand_name": "pilsen",
+            "sob": 0.347133659,
+            "year": 2020
+        },
+        {
+            "brand_name": "pilsen",
+            "sob": 0.365446231,
+            "year": 2021
+        },
+        {
+            "brand_name": "pilsen",
+            "sob": 0.407109439,
+            "year": 2022
+        },
+        {
+            "brand_name": "pilsen",
+            "sob": 0.477330056,
+            "year": 2023
+        }
+    ],
+    "start_time": 0,
+    "target_category": "maco",
+    "target_year": 2024,
+    "task_id": "fc53f925-16e6-4255-a4e0-d2b1c3f77c8a"
+}
